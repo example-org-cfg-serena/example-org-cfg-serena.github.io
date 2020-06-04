@@ -1,2 +1,2 @@
 # example-org-cfg-serena.github.io
-My practice website for week 7
+My practice photo gallery website for week 7
